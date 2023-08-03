@@ -1,6 +1,7 @@
 ## Between 2 columns - columns are ordered and need to do a one-to-one mapping
 
 1. Apply the formula - 
+
 =A2=B2
 
 ## Between 2 columns - columns are not ordered and need to do matching
